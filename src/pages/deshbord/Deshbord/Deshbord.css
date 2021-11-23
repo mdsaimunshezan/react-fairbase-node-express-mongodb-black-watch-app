@@ -1,0 +1,29 @@
+.offcanvas-start {
+    top: 66px;
+}
+.offcanvas {
+    max-width: 214px;
+    position: absolute;
+}
+.deshbord {
+    height: 60vh;
+}
+.deshbord__title {
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+    font-size: 60px;
+}
+
+
+
+
+@media (max-width:500px) {
+    .deshbord__title {
+        text-align: center;
+        color: white;
+        margin-top: 200px;
+        font-size: 20px;
+       text-align: right;
+    }
+}

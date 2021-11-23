@@ -1,0 +1,15 @@
+.bg-light {
+   background: #2f2f2f !important;
+}
+.logo {
+    height: 40px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    font-size: 20px;
+    margin: 0px 10px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #a8741a;
+    
+}
